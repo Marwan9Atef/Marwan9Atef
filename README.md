@@ -14,7 +14,7 @@
   </a>
 </p>
 <br>
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">🛠 Language and Tools</h2>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart" width="50" />&nbsp;&nbsp;
