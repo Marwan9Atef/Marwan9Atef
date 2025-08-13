@@ -27,6 +27,14 @@
   <img src="https://skillicons.dev/icons?i=supabase" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="50" />
 </p>
+<br>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marwan9Atef&theme=tokyonight&show_icons=true&hide_title=true&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marwan9Atef&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
