@@ -1,6 +1,16 @@
 <!-- Capsule Render Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:50c878,50:20c997,100:1abc9c&height=300&section=header&text=Hey!%20Glad%20you’re%20here%20😄&fontSize=70&fontColor=f8f9fa)
+<br>
+<h1 align="center"> I'm Marwan Atef</h1>
+<h3 align="center">A passionate Mobile App Developer with Flutter</h3>
+<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
+- 🌱 I’m currently learning **Advance Topic in Flutter**
+
+- 📫 How to reach me **marwanatef.mahmoud@gmail.com**
+<br>
+<br>
+<br>
 <!-- Centered LinkedIn & CV Icons -->
 <p align="center">
   <!-- LinkedIn -->
@@ -14,9 +24,12 @@
   </a>
 </p>
 <br>
-<h2 align="center">🛠 Language and Tools</h2>
 <br>
-<p align="center">
+<br>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<br>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=dart" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />&nbsp;&nbsp;
