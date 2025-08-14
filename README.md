@@ -40,6 +40,12 @@
   <img src="https://skillicons.dev/icons?i=supabase" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="50" />
 </p>
+<br>
+<br>
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marwan9Atef&show_icons=true&theme=dark)
 
 
 
