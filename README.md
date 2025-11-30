@@ -2,11 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:50c878,50:20c997,100:1abc9c&height=300&section=header&text=Hey!%20Glad%20you’re%20here%20😄&fontSize=70&fontColor=f8f9fa)
 <br>
 <h1 align="center"> I'm Marwan Atef</h1>
-<h3 align="center">A passionate Mobile App Developer with Flutter</h3>
+<h3 align="center">A passionate Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 - 🌱 I’m currently learning **Advance Topic in Flutter**
-
+- 🌱 I’m currently learning **Native with kotlin**
 - 📫 How to reach me **marwanatef.mahmoud@gmail.com**
 <br>
 <br>
