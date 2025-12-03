@@ -45,7 +45,10 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marwan9Atef&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Marwan9Atef&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Marwan9Atef&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan9Atef&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
