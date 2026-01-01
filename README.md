@@ -33,6 +33,8 @@
   <img src="https://skillicons.dev/icons?i=dart" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=kotlin" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ktor" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="50" />&nbsp;&nbsp;
