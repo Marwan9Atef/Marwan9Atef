@@ -17,9 +17,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-1024.png" width="50" alt="LinkedIn Icon" />
   </a>
   &nbsp;&nbsp;
-  <!-- CV -->
-  <a href="https://YOUR_CV_LINK" target="_blank">
-    <img src="https://cdn2.iconfinder.com/data/icons/business-2-27/48/66-1024.png" width="50" alt="CV Icon" />
+
   </a>
 </p>
 <br>
