@@ -27,16 +27,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="50" />
+<img src="https://skillicons.dev/icons?i=dart" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter" width="50" />&nbsp;&nbsp;
+<img src="https://jaspr.site/images/logo.svg" width="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=supabase" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="50" />
 </p>
 <br>
 <br>
