@@ -59,7 +59,7 @@
   <tr>
     <td align="center" style="padding: 20px;">
       <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/24/89/412489c1-8f93-cedf-36fb-d96653a7c497/Placeholder.mill/400x400bb-75.webp" width="80" style="border-radius: 18px" alt="DocTime Icon" />
-      <br><br>
+      <br>
       <b>DocTime</b>
       <br>
       <sub>Clinic & Appointment Management for Doctors</sub>
