@@ -49,29 +49,9 @@
 <br>
 <br>
 
-<h3 align="left">My Apps:</h3>
 
-<br>
 
-<table>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/24/89/412489c1-8f93-cedf-36fb-d96653a7c497/Placeholder.mill/400x400bb-75.webp" width="80" style="border-radius: 18px" alt="DocTime Icon" />
-      <br>
-      <b>DocTime</b>
-      <br>
-      <sub>Clinic & Appointment Management for Doctors</sub>
-      <br><br>
-      <a href="https://apps.apple.com/us/app/doctime/id6769465936" target="_blank">
-        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="130" alt="Download on App Store" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://play.google.com/store/apps/details?id=com.MediSync.doctime" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="130" alt="Get it on Google Play" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <br>
 <br>
