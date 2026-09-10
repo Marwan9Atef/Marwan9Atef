@@ -27,18 +27,12 @@
 <br>
 <br>
 
-<h3 align="left">Languages & Tools</h3>
+<h3 align="left">Mobile Technologies</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="50" />
+
 </p>
 
 <h3 align="left">Web Technologies</h3>
@@ -46,9 +40,20 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=next" width="50" />&nbsp;&nbsp;
   <img src="https://jaspr.site/images/logo.svg" width="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+</p>
+<h3 align="left">Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="50" />
 </p>
 
 <br>
