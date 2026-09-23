@@ -31,6 +31,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" width="50" />&nbsp;&nbsp;
 
 </p>
@@ -52,7 +53,6 @@
   <img src="https://skillicons.dev/icons?i=git" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=firebase" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="50" />
 </p>
 
