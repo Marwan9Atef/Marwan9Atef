@@ -40,7 +40,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript" width="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=next" width="50" />&nbsp;&nbsp;
   <img src="https://jaspr.site/images/logo.svg" width="40" />&nbsp;&nbsp;
