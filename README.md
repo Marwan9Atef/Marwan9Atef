@@ -60,10 +60,6 @@
 <br>
 <br>
 
-
-
-
-
 <br>
 <br>
 <br>
@@ -73,11 +69,12 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Marwan9Atef&theme=holi-theme" alt="GitHub Streak" />
   </a>
+
+  <br>
+  <br>
+
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
-
-
-
-
 
 
 
